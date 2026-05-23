@@ -1,0 +1,5 @@
+# Tell Vercel to ignore all Python backend files
+*.py
+requirements.txt
+uvicorn.log
+__pycache__/
